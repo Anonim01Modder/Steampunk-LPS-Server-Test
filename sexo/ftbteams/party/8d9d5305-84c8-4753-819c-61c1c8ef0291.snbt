@@ -1,0 +1,35 @@
+{
+	id: "8d9d5305-84c8-4753-819c-61c1c8ef0291"
+	type: "party"
+	owner: "90735b8a-639d-428c-9864-844179e76a3f"
+	ranks: {
+		33daeada-5a9d-47d2-9c37-f9c846752617: "member"
+		c5674af7-7746-4d14-85ac-fb184b7b873e: "member"
+		24a2fb2e-07f3-4b7e-8423-04ceac48eb20: "member"
+		90735b8a-639d-428c-9864-844179e76a3f: "owner"
+		488eeaf5-d101-4eff-9c54-7e8c18594eed: "member"
+		f11b5cf6-8514-45d8-a56c-dec3eb040935: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "partido dos trabalhadores alemas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6259FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1717116183699L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"FwOyasumi\"}]}" }
+		{ from: "90735b8a-639d-428c-9864-844179e76a3f", date: 1717116183701L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"x1Shinoda\"}]}" }
+		{ from: "90735b8a-639d-428c-9864-844179e76a3f", date: 1717116183702L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Hakun4Batata\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1717116186338L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"x1Shinoda\"}]}" }
+		{ from: "90735b8a-639d-428c-9864-844179e76a3f", date: 1717185704329L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Anonim01_\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1717185708853L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Anonim01_\"}]}" }
+		{ from: "90735b8a-639d-428c-9864-844179e76a3f", date: 1717194870928L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ViniciusViccelo\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1717194877430L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ViniciusViccelo\"}]}" }
+		{ from: "90735b8a-639d-428c-9864-844179e76a3f", date: 1717208945538L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Hakun4Batata\"}]}" }
+		{ from: "90735b8a-639d-428c-9864-844179e76a3f", date: 1717208945539L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Nike_neas\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1717208951230L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Hakun4Batata\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1717208955140L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Nike_neas\"}]}" }
+	]
+	extra: { }
+}

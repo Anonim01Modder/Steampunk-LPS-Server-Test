@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "488eeaf5d1014eff9c547e8c18594eed"
+	name: "Nike_neas"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		503F8524875C623B: 1
+	}
+	started: {
+		503F8524875C623B: 1717208859937L
+		0000000000000001: 1717208859937L
+		76992E019CD55E76: 1717208859937L
+		75A430761607DC45: 1717208859937L
+	}
+	completed: {
+		503F8524875C623B: 1717208859937L
+		75A430761607DC45: 1717208859937L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

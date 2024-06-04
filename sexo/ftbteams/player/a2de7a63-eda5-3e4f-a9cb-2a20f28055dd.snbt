@@ -1,0 +1,17 @@
+{
+	id: "a2de7a63-eda5-3e4f-a9cb-2a20f28055dd"
+	type: "player"
+	player_name: "Hakun4Batata"
+	ranks: {
+		a2de7a63-eda5-3e4f-a9cb-2a20f28055dd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Hakun4Batata"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

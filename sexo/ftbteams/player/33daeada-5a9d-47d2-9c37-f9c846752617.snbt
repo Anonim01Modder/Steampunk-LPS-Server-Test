@@ -1,0 +1,15 @@
+{
+	id: "33daeada-5a9d-47d2-9c37-f9c846752617"
+	type: "player"
+	player_name: "ViniciusViccelo"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ViniciusViccelo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

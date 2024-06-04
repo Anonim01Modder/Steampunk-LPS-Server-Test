@@ -1,0 +1,15 @@
+{
+	id: "90735b8a-639d-428c-9864-844179e76a3f"
+	type: "player"
+	player_name: "FwOyasumi"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "FwOyasumi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6259FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "488eeaf5-d101-4eff-9c54-7e8c18594eed"
+	type: "player"
+	player_name: "Nike_neas"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Nike_neas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5977"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
