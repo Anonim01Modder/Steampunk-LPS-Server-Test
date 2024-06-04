@@ -1,0 +1,15 @@
+{
+	id: "24a2fb2e-07f3-4b7e-8423-04ceac48eb20"
+	type: "player"
+	player_name: "x1Shinoda"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "x1Shinoda"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A659FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

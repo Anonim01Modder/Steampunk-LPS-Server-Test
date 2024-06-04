@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "a2de7a63eda53e4fa9cb2a20f28055dd"
+	name: "Hakun4Batata"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		503F8524875C623B: 1
+	}
+	started: {
+		503F8524875C623B: 1717121360524L
+		0000000000000001: 1717121360524L
+		76992E019CD55E76: 1717121360524L
+		75A430761607DC45: 1717121360524L
+	}
+	completed: {
+		503F8524875C623B: 1717121360525L
+		75A430761607DC45: 1717121360525L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

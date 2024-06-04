@@ -1,0 +1,23 @@
+{
+  "singleplayer": {
+    "sexo": true
+  },
+  "multiplayer": {
+    "c5674af7-7746-4d14-85ac-fb184b7b873e": true,
+    "90735b8a-639d-428c-9864-844179e76a3f..is3": true,
+    "488eeaf5-d101-4eff-9c54-7e8c18594eed..is3": true,
+    "a12738fa-fdf1-4bf9-9212-bb5ee3305b54..is3": true,
+    "488eeaf5-d101-4eff-9c54-7e8c18594eed": true,
+    "33daeada-5a9d-47d2-9c37-f9c846752617": true,
+    "a12738fa-fdf1-4bf9-9212-bb5ee3305b54": true,
+    "24a2fb2e-07f3-4b7e-8423-04ceac48eb20": true,
+    "a2de7a63-eda5-3e4f-a9cb-2a20f28055dd..is3": true,
+    "f11b5cf6-8514-45d8-a56c-dec3eb040935": true,
+    "a2de7a63-eda5-3e4f-a9cb-2a20f28055dd": true,
+    "24a2fb2e-07f3-4b7e-8423-04ceac48eb20..is3": true,
+    "c5674af7-7746-4d14-85ac-fb184b7b873e..is3": true,
+    "f11b5cf6-8514-45d8-a56c-dec3eb040935..is3": true,
+    "33daeada-5a9d-47d2-9c37-f9c846752617..is3": true,
+    "90735b8a-639d-428c-9864-844179e76a3f": true
+  }
+}
