@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2024-06-05 19:32:33 -0300"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/metal_plate_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:27 -0300"
@@ -704,7 +710,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -1088,7 +1094,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -1209,6 +1215,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/coke_to_slab": {
     "criteria": {
       "has_coke": "2024-05-31 20:55:53 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_nickel_to_ingot_nickel": {
+    "criteria": {
+      "has_storage_nickel": "2024-06-05 19:47:46 -0300"
     },
     "done": true
   },
@@ -2812,7 +2824,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -3712,7 +3724,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -4407,6 +4419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-05 19:32:33 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:26 -0300"
@@ -4983,6 +5001,12 @@
     },
     "done": true
   },
+  "immersiveposts:recipes/immersiveposts/has_nickel_rod": {
+    "criteria": {
+      "has_nickel_ingot": "2024-06-05 19:47:46 -0300"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/deepslate_castel_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-05-31 18:40:31 -0300"
@@ -5499,9 +5523,15 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-06-05 19:32:33 -0300"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -6522,7 +6552,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -7091,6 +7121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-05 19:32:33 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:29 -0300"
@@ -7459,7 +7495,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -7495,7 +7531,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -7667,6 +7703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-05 19:32:33 -0300"
+    },
+    "done": true
+  },
   "tetra:spelunking/find_scroll": {
     "criteria": {
       "find": "2024-05-29 23:22:33 -0300"
@@ -7790,6 +7832,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-05-30 23:15:56 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-06-05 19:32:33 -0300"
     },
     "done": true
   },
@@ -9148,7 +9196,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -9956,6 +10004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-05 19:32:33 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2024-05-24 22:43:38 -0300"
@@ -10426,7 +10480,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -11524,6 +11578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-05 19:32:33 -0300"
+    },
+    "done": true
+  },
   "copycats:recipes/copycats.main/stonecutting/copycat_light_weighted_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:26 -0300"
@@ -11623,6 +11683,12 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2024-05-25 23:23:21 -0300"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/nickel_knife": {
+    "criteria": {
+      "has_nickel": "2024-06-05 19:47:46 -0300"
     },
     "done": true
   },
@@ -11732,6 +11798,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:25 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2024-06-05 19:47:46 -0300"
     },
     "done": true
   },
@@ -11876,6 +11948,12 @@
   "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:24 -0300"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2024-06-05 19:32:33 -0300"
     },
     "done": true
   },
@@ -12071,6 +12149,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-06-05 19:32:33 -0300"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:28 -0300"
@@ -12152,6 +12236,12 @@
   "cgm:recipes/cgm/stun_grenade": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:25 -0300"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/fence_nickel": {
+    "criteria": {
+      "has_nickel_ingot": "2024-06-05 19:47:46 -0300"
     },
     "done": true
   },
@@ -12725,6 +12815,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_to_storage_nickel": {
+    "criteria": {
+      "has_ingot_nickel": "2024-06-05 19:47:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-05-30 23:51:45 -0300"
@@ -12870,7 +12966,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -13266,7 +13362,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 13:18:15 -0300"
+      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
     },
     "done": false
   },
@@ -13746,6 +13842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-05 19:32:33 -0300"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:28 -0300"
@@ -14180,6 +14282,12 @@
       "is_cursed_one": "2024-05-24 21:34:40 -0300"
     },
     "done": false
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-06-05 19:32:33 -0300"
+    },
+    "done": true
   },
   "computercraft:recipes/computercraft/printer": {
     "criteria": {
