@@ -710,7 +710,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
     "done": false
   },
@@ -954,6 +954,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/brewing/strong_apple_cider": {
+    "criteria": {
+      "has_tea": "2024-06-06 22:26:12 -0300"
+    },
+    "done": true
+  },
   "brewinandchewin:recipes/brewinandchewin/fermenting/mead": {
     "criteria": {
       "has_any_ingredient": "2024-05-24 23:23:59 -0300"
@@ -1094,7 +1100,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
     "done": false
   },
@@ -2824,7 +2830,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
     "done": false
   },
@@ -3724,9 +3730,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "requirement": "2024-06-06 22:29:28 -0300",
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/ender_slayer": {
     "criteria": {
@@ -5531,7 +5538,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
     "done": false
   },
@@ -6552,7 +6559,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
     "done": false
   },
@@ -7495,7 +7502,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
     "done": false
   },
@@ -7531,7 +7538,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
     "done": false
   },
@@ -7988,6 +7995,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:27 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cheesecake_from_slices": {
+    "criteria": {
+      "has_sweet_berry_cheesecake_slice": "2024-06-06 22:17:40 -0300"
     },
     "done": true
   },
@@ -9196,7 +9209,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
     "done": false
   },
@@ -10480,7 +10493,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
     "done": false
   },
@@ -11239,6 +11252,12 @@
   "enigmaticlegacy:recipes/generic/animal_guidebook": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:29 -0300"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/long_apple_cider": {
+    "criteria": {
+      "has_tea": "2024-06-06 22:26:12 -0300"
     },
     "done": true
   },
@@ -12906,6 +12925,7 @@
       "minecraft:river": "2024-05-29 22:54:06 -0300",
       "environmental:blossom_woods": "2024-05-24 23:16:40 -0300",
       "minecraft:desert": "2024-06-01 16:17:19 -0300",
+      "minecraft:ocean": "2024-06-06 21:52:09 -0300",
       "minecraft:warm_ocean": "2024-06-01 16:18:02 -0300"
     },
     "done": false
@@ -12966,7 +12986,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
     "done": false
   },
@@ -13362,7 +13382,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-06-05 19:54:38 -0300"
+      "log_spam_fixer": "2024-06-06 22:29:18 -0300"
     },
     "done": false
   },
@@ -13785,6 +13805,12 @@
   "create:precision_mechanism": {
     "criteria": {
       "0": "2024-06-02 01:44:56 -0300"
+    },
+    "done": true
+  },
+  "thinair:lantern": {
+    "criteria": {
+      "place": "2024-06-06 22:15:46 -0300"
     },
     "done": true
   },
