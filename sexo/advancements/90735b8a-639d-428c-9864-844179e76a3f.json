@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/chair/green_chair_from_seat": {
     "criteria": {
       "has_seat": "2024-05-30 21:19:44 -0300"
@@ -335,6 +341,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_sword": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-05-31 19:08:38 -0300"
@@ -504,6 +516,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/generator": {
+    "criteria": {
+      "has_component_iron": "2024-06-09 13:14:00 -0300"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
     "criteria": {
       "has_item": "2024-05-29 23:35:35 -0300"
@@ -512,7 +530,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
   },
@@ -573,6 +591,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2024-05-31 15:53:55 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/thermoelectric_generator": {
+    "criteria": {
+      "has_coil_lv": "2024-06-09 13:11:59 -0300"
     },
     "done": true
   },
@@ -732,6 +756,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/pink_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-05-25 22:21:13 -0300"
@@ -764,9 +794,15 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_chain": {
+    "criteria": {
+      "has_ingot": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
@@ -852,6 +888,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/orange_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-05-31 18:25:23 -0300"
@@ -867,6 +909,12 @@
   "copycats:recipes/copycats.main/stonecutting/copycat_fence_gate": {
     "criteria": {
       "has_item": "2024-05-25 22:31:42 -0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_axe": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
     },
     "done": true
   },
@@ -1089,6 +1137,12 @@
   "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-05-25 22:41:39 -0300"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/deorum_knife": {
+    "criteria": {
+      "has_deorum": "2024-06-09 13:34:54 -0300"
     },
     "done": true
   },
@@ -1398,6 +1452,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/turtle_normal": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
+    },
+    "done": true
+  },
   "copycats:recipes/copycats.main/stonecutting/copycat_layer": {
     "criteria": {
       "has_item": "2024-05-25 22:31:42 -0300"
@@ -1651,6 +1711,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_boots": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-05-29 22:39:35 -0300"
@@ -1684,6 +1750,18 @@
   "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2024-05-25 22:31:42 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/speaker": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_leggings": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
     },
     "done": true
   },
@@ -1975,6 +2053,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-06-09 13:32:08 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wireless_modem_normal": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_fence_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-05-25 22:41:39 -0300"
@@ -2017,6 +2107,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_nugget_from_deorum_ingot": {
+    "criteria": {
+      "has_item": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-05-25 22:21:13 -0300"
@@ -2043,7 +2139,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
   },
@@ -2233,6 +2329,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_helmet": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-05-31 19:08:38 -0300"
@@ -2257,6 +2359,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/red_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2024-05-25 22:52:47 -0300"
@@ -2266,6 +2374,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2024-05-30 23:08:54 -0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/gray_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
     },
     "done": true
   },
@@ -2353,6 +2467,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/yellow_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-05-31 18:25:23 -0300"
@@ -2419,6 +2539,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_dynamo": {
+    "criteria": {
+      "place_block": "2024-06-09 13:16:35 -0300"
+    },
+    "done": true
+  },
   "tetra:upgrades/rack": {
     "criteria": {
       "rack": "2024-05-25 22:28:30 -0300"
@@ -2470,6 +2596,12 @@
   "twigs:recipes/gravel_bricks/gravel_bricks": {
     "criteria": {
       "has_item": "2024-05-29 22:35:58 -0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/black_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
     },
     "done": true
   },
@@ -2617,6 +2749,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/cyan_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2024-05-31 18:36:55 -0300"
@@ -2643,9 +2781,15 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/turntable": {
+    "criteria": {
+      "has_coil_lv": "2024-06-09 13:11:59 -0300"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/ender_slayer": {
     "criteria": {
@@ -2838,6 +2982,12 @@
   "create:recipes/create.palettes/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-05-29 22:39:35 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper_ins": {
+    "criteria": {
+      "has_item": "2024-06-09 13:11:36 -0300"
     },
     "done": true
   },
@@ -3379,9 +3529,21 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/light_blue_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-25 22:55:47 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wired_modem": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
     },
     "done": true
   },
@@ -3407,6 +3569,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-05-29 22:57:46 -0300",
       "minecraft:spider": "2024-05-30 22:25:09 -0300",
+      "minecraft:creeper": "2024-06-09 13:22:59 -0300",
       "minecraft:phantom": "2024-05-31 20:07:55 -0300",
       "minecraft:enderman": "2024-05-30 22:21:39 -0300",
       "minecraft:zombie": "2024-05-25 22:58:53 -0300"
@@ -3416,6 +3579,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2024-05-30 23:30:34 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/breaker_switch": {
+    "criteria": {
+      "has_wirecoil_copper": "2024-06-09 13:11:36 -0300"
     },
     "done": true
   },
@@ -3803,6 +3972,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/golden_orchid_seeds": {
+    "criteria": {
+      "has_deorum_ingot": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-05-25 22:34:28 -0300"
@@ -3878,6 +4053,12 @@
   "create:recipes/create.palettes/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2024-05-31 19:08:38 -0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_trapdoor": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
     },
     "done": true
   },
@@ -3961,7 +4142,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
   },
@@ -3989,6 +4170,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/extradimensional_eye": {
+    "criteria": {
+      "has_items": "2024-06-09 13:32:08 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2024-05-29 23:52:13 -0300"
@@ -3998,6 +4185,12 @@
   "create:recipes/create.palettes/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-05-25 22:37:21 -0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_door": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
     },
     "done": true
   },
@@ -4296,6 +4489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-06-09 12:46:25 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-05-25 22:22:42 -0300"
@@ -4365,6 +4564,12 @@
   "create:recipes/create.palettes/crafting/kinetics/green_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-05-30 21:19:44 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2024-06-09 13:10:42 -0300"
     },
     "done": true
   },
@@ -4584,6 +4789,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/pink_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-05-25 22:40:17 -0300"
@@ -4640,7 +4851,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
   },
@@ -4785,6 +4996,12 @@
   "woodworks:recipes/decorations/dark_oak_ladder": {
     "criteria": {
       "has_stick": "2024-05-25 22:30:51 -0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_gray_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
     },
     "done": true
   },
@@ -5262,6 +5479,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/orange_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-05-25 22:30:49 -0300"
@@ -5352,9 +5575,21 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2024-06-09 13:32:08 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-05-31 19:08:38 -0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_hoe": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
     },
     "done": true
   },
@@ -5378,7 +5613,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
   },
@@ -5396,9 +5631,15 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_pickaxe": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
   },
   "clayworks:recipes/building_blocks/smooth_basalt_from_baking": {
     "criteria": {
@@ -5622,6 +5863,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/strip_lv": {
+    "criteria": {
+      "has_copper_coil": "2024-06-09 13:11:36 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-05-31 23:15:29 -0300"
@@ -5655,6 +5902,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-05-25 23:30:23 -0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/black_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
     },
     "done": true
   },
@@ -5820,6 +6073,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/brown_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/twisted_mirror": {
     "criteria": {
       "is_cursed_one": "2024-05-25 22:56:42 -0300"
@@ -5890,6 +6149,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-25 22:37:21 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/charging_station": {
+    "criteria": {
+      "has_coil_lv": "2024-06-09 13:11:59 -0300"
     },
     "done": true
   },
@@ -6104,6 +6369,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/cyan_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/tactical_stock": {
     "criteria": {
       "has_iron_ingot": "2024-05-31 21:50:17 -0300"
@@ -6218,6 +6489,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/magenta_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-05-29 22:37:00 -0300"
@@ -6227,6 +6504,12 @@
   "create:recipes/create.palettes/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-05-31 15:53:11 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/monitor_advanced": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
     },
     "done": true
   },
@@ -6296,6 +6579,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/matcha_ice_cream_no_neapolitan": {
+    "criteria": {
+      "has_ice": "2024-06-09 12:46:25 -0300"
+    },
+    "done": true
+  },
   "immersiveposts:recipes/immersiveposts/fence_silver": {
     "criteria": {
       "has_silver_ingot": "2024-05-31 21:48:38 -0300"
@@ -6362,6 +6651,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_block_from_deorum_ingot": {
+    "criteria": {
+      "has_deorum_ingot": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/jacaranda_sign": {
     "criteria": {
       "has_jacaranda_planks": "2024-05-29 23:46:09 -0300"
@@ -6392,6 +6687,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/blue_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2024-05-30 21:19:40 -0300"
@@ -6401,6 +6702,12 @@
   "cgm:recipes/cgm/basic_bullet": {
     "criteria": {
       "has_gunpowder": "2024-05-25 22:53:42 -0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/lime_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
     },
     "done": true
   },
@@ -6574,7 +6881,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
   },
@@ -6623,6 +6930,12 @@
   "enigmaticlegacy:book/accessories/ender_ring": {
     "criteria": {
       "is_cursed_one": "2024-05-25 22:56:42 -0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/gray_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
     },
     "done": true
   },
@@ -6764,6 +7077,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_chestplate": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-05-25 22:25:13 -0300"
@@ -6785,6 +7104,12 @@
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-05-31 15:43:03 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/extradimensional_eye": {
+    "criteria": {
+      "has_the_recipe": "2024-06-09 13:32:08 -0300"
     },
     "done": true
   },
@@ -7010,6 +7335,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2024-06-09 13:32:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-05-30 00:22:07 -0300"
@@ -7214,6 +7545,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/purple_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-05-31 19:08:38 -0300"
@@ -7382,6 +7719,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/red_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2024-05-31 18:27:09 -0300"
@@ -7462,7 +7805,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
   },
@@ -7647,6 +7990,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/brown_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/chair/pink_chair_from_seat": {
     "criteria": {
       "has_seat": "2024-05-30 21:19:44 -0300"
@@ -7725,6 +8074,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/lime_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/shell": {
     "criteria": {
       "has_gunpowder": "2024-05-25 22:53:42 -0300"
@@ -7755,6 +8110,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/purple_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/deepslate_castel_tile_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-05-31 15:53:11 -0300"
@@ -7776,6 +8137,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/raw_lead_to_raw_block_lead": {
     "criteria": {
       "has_raw_lead": "2024-05-31 20:33:23 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/cable": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
     },
     "done": true
   },
@@ -7855,6 +8222,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2024-05-25 22:21:13 -0300",
       "inv_changed-diamond": "2024-05-25 22:21:13 -0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_pressure_plate": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
     },
     "done": true
   },
@@ -7975,6 +8348,12 @@
   "environmental:recipes/building_blocks/dirt_bricks_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2024-05-25 22:42:36 -0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/blue_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
     },
     "done": true
   },
@@ -8110,6 +8489,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/arcane_edelwood_planks": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stove": {
     "criteria": {
       "has_campfire": "2024-05-31 21:41:22 -0300"
@@ -8161,6 +8546,12 @@
   "twigs:recipes/bricks/mixed_bricks_stonecutting": {
     "criteria": {
       "has_item": "2024-05-31 22:31:53 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_drive": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
     },
     "done": true
   },
@@ -8246,6 +8637,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-05-31 15:53:55 -0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_shovel": {
+    "criteria": {
+      "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
     },
     "done": true
   },
@@ -8849,6 +9246,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/white_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2024-05-25 22:37:02 -0300"
@@ -8876,6 +9279,12 @@
   "woodworks:recipes/building_blocks/dark_oak_bookshelf": {
     "criteria": {
       "has_book": "2024-05-30 23:29:23 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/turtle_advanced": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
     },
     "done": true
   },
@@ -8939,6 +9348,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_windmill": {
+    "criteria": {
+      "place_block": "2024-06-09 13:16:41 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-05-29 23:51:33 -0300"
@@ -8948,6 +9363,12 @@
   "create:recipes/create.base/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2024-05-25 22:37:02 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/monitor_normal": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
     },
     "done": true
   },
@@ -9171,7 +9592,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
   },
@@ -9253,6 +9674,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-05-29 23:08:38 -0300"
@@ -9274,6 +9701,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2024-05-25 22:37:02 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wireless_modem_advanced": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
     },
     "done": true
   },
@@ -9411,7 +9844,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:53:58 -0300"
+      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
     },
     "done": false
   },
@@ -9535,6 +9968,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-06-09 13:32:08 -0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/mangrove_ladder": {
     "criteria": {
       "has_stick": "2024-05-25 22:30:51 -0300"
@@ -9594,6 +10033,12 @@
   "create:recipes/create.palettes/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2024-05-25 22:31:42 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/furnace_heater": {
+    "criteria": {
+      "has_coil_lv": "2024-06-09 13:11:59 -0300"
     },
     "done": true
   },
@@ -9685,6 +10130,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/dynamo": {
+    "criteria": {
+      "has_coil_lv": "2024-06-09 13:11:59 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-05-29 22:39:35 -0300"
@@ -9708,6 +10159,12 @@
       "log_spam_fixer": "2024-05-25 22:21:14 -0300"
     },
     "done": false
+  },
+  "delightful:recipes/food/salmonberry_ice_cream_no_neapolitan": {
+    "criteria": {
+      "has_ice": "2024-06-09 12:46:25 -0300"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
@@ -9907,6 +10364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-06-09 13:32:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-05-31 22:28:38 -0300"
@@ -10003,6 +10466,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/maintenance_kit": {
+    "criteria": {
+      "has_wirecutter": "2024-06-09 13:06:58 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-25 22:55:47 -0300"
@@ -10032,6 +10501,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-05-31 17:06:09 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/printer": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
     },
     "done": true
   },
@@ -10101,6 +10576,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-05-25 22:36:43 -0300"
@@ -10167,6 +10648,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/green_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-05-25 22:49:00 -0300"
@@ -10229,9 +10716,10 @@
   },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2024-05-25 22:36:43 -0300"
+      "has_parent_recipe": "2024-05-25 22:36:43 -0300",
+      "has_items": "2024-06-09 13:32:08 -0300"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
@@ -10365,6 +10853,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/chair/magenta_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/spruce_button_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-05-30 00:46:07 -0300"
@@ -10413,6 +10907,12 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2024-06-09 13:32:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_the_recipe": "2024-05-25 22:24:57 -0300"
@@ -10422,6 +10922,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-05-25 22:25:13 -0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/yellow_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
     },
     "done": true
   },
@@ -10515,6 +11021,12 @@
     },
     "done": true
   },
+  "interiors:recipes/building_blocks/crafting/floor_chair/green_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2024-05-29 23:51:33 -0300",
@@ -10581,6 +11093,12 @@
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2024-05-30 23:29:23 -0300"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_blue_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2024-06-09 13:42:06 -0300"
     },
     "done": true
   },
