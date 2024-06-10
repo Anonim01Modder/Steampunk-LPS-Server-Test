@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2024-06-09 19:39:38 -0300"
+    },
+    "done": true
+  },
   "copycats:recipes/copycats.main/stonecutting/copycat_byte": {
     "criteria": {
       "has_item": "2024-06-01 16:59:16 -0300"
@@ -565,7 +571,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -599,6 +605,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-06-09 19:41:11 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-05-21 22:07:51 -0300"
@@ -620,6 +632,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_hoe": "2024-05-21 22:13:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-06-09 22:06:26 -0300"
     },
     "done": true
   },
@@ -883,7 +901,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -1415,6 +1433,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "has_parent_recipe": "2024-06-09 22:03:01 -0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-05-27 22:14:56 -0300"
@@ -1634,6 +1658,12 @@
   "ulterlands:the_ulterlands": {
     "criteria": {
       "the_ulterlands": "2024-05-21 22:02:13 -0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2024-06-09 22:27:45 -0300"
     },
     "done": true
   },
@@ -1925,6 +1955,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/c/environmental/pine_window": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_hoe_repairing": {
     "criteria": {
       "has_wooden_hoe": "2024-05-21 22:16:23 -0300"
@@ -2201,6 +2237,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/brewing/rose_hip_tea": {
+    "criteria": {
+      "has_leaves": "2024-06-09 21:31:59 -0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv": {
     "criteria": {
       "has_aluminum_ingot": "2024-05-21 22:28:24 -0300"
@@ -2371,7 +2413,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -2723,6 +2765,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-06-09 21:45:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-05-24 22:38:39 -0300"
@@ -2918,6 +2966,12 @@
   "brewinandchewin:recipes/brewinandchewin/quiche_mushroom": {
     "criteria": {
       "has_crust": "2024-05-31 21:44:08 -0300"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
     },
     "done": true
   },
@@ -3131,6 +3185,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2024-06-09 21:44:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-05-30 23:33:53 -0300"
@@ -3145,7 +3205,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -3690,6 +3750,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-06-09 21:46:04 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-05-21 22:13:14 -0300"
@@ -3698,7 +3764,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_tower_of_the_undead": "2024-05-28 21:45:01 -0300"
+      "entered_tower_of_the_undead": "2024-05-28 21:45:01 -0300",
+      "entered_witch_tower": "2024-06-09 22:32:49 -0300"
     },
     "done": false
   },
@@ -3857,9 +3924,11 @@
       "shrubland": "2024-05-21 22:03:28 -0300",
       "rocky_shrubland": "2024-05-23 21:22:35 -0300",
       "scrubland": "2024-05-30 21:39:13 -0300",
+      "highland": "2024-06-09 22:31:12 -0300",
       "jade_cliffs": "2024-05-31 23:30:23 -0300",
       "old_growth_woodland": "2024-05-31 23:31:41 -0300",
       "orchard": "2024-05-24 22:36:12 -0300",
+      "field": "2024-06-09 22:32:16 -0300",
       "lavender_forest": "2024-05-21 22:02:13 -0300",
       "mediterranean_forest": "2024-05-31 23:31:50 -0300",
       "coniferous_forest": "2024-05-28 21:44:21 -0300",
@@ -3875,6 +3944,7 @@
       "pumpkin_patch": "2024-05-29 23:33:42 -0300",
       "prairie": "2024-05-30 21:35:36 -0300",
       "rainforest": "2024-06-01 17:14:37 -0300",
+      "crag": "2024-06-09 22:31:11 -0300",
       "ominous_woods": "2024-05-28 22:02:25 -0300"
     },
     "done": false
@@ -3900,6 +3970,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-05-23 21:36:17 -0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2024-06-09 22:03:01 -0300"
     },
     "done": true
   },
@@ -4091,8 +4167,10 @@
       "minecraft:vindicator": "2024-06-07 23:59:39 -0300",
       "minecraft:spider": "2024-05-24 22:50:05 -0300",
       "minecraft:creeper": "2024-05-24 22:48:42 -0300",
+      "minecraft:witch": "2024-06-09 22:33:11 -0300",
       "minecraft:enderman": "2024-05-31 19:59:21 -0300",
-      "minecraft:zombie": "2024-05-23 21:15:13 -0300"
+      "minecraft:zombie": "2024-05-23 21:15:13 -0300",
+      "minecraft:zombie_villager": "2024-06-09 22:13:57 -0300"
     },
     "done": false
   },
@@ -4123,6 +4201,12 @@
   "tetra:spelunking/find_scroll_howling": {
     "criteria": {
       "find": "2024-05-23 21:50:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-06-09 21:52:29 -0300"
     },
     "done": true
   },
@@ -4315,6 +4399,12 @@
   "blue_skies:recipes/blue_skies_tools/horizonite_sword": {
     "criteria": {
       "has_resource": "2024-05-30 00:16:54 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-06-09 21:46:04 -0300"
     },
     "done": true
   },
@@ -4662,7 +4752,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -4729,6 +4819,12 @@
   "farmersdelight:recipes/farmersdelight/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2024-05-31 20:48:41 -0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2024-06-09 22:27:30 -0300"
     },
     "done": true
   },
@@ -4858,6 +4954,12 @@
     },
     "done": true
   },
+  "environmental:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2024-05-30 19:55:31 -0300"
@@ -4939,6 +5041,12 @@
   "railways:recipes/railways/crafting/smokestack_long": {
     "criteria": {
       "has_item": "2024-05-23 21:06:34 -0300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/fd/environmental/pine_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
     },
     "done": true
   },
@@ -5478,7 +5586,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -5491,6 +5599,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
     "criteria": {
       "has_iron_ingot": "2024-05-21 22:28:25 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2024-06-09 22:38:31 -0300"
     },
     "done": true
   },
@@ -6045,6 +6159,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/jungle_button_from_jungle_logs_sawing": {
     "criteria": {
       "has_jungle_logs": "2024-05-30 19:55:22 -0300"
@@ -6060,6 +6180,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2024-06-01 17:29:12 -0300"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/pine_hedge": {
+    "criteria": {
+      "has_pine_leaves": "2024-06-09 21:40:59 -0300"
     },
     "done": true
   },
@@ -6102,6 +6228,12 @@
   "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
     "criteria": {
       "has_resource": "2024-05-30 00:16:54 -0300"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/kimchi": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-09 19:46:44 -0300"
     },
     "done": true
   },
@@ -6239,7 +6371,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -6263,7 +6395,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -6510,6 +6642,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-05-29 23:31:46 -0300"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/deluxe_cheeseburger_from_milk": {
+    "criteria": {
+      "has_bacon": "2024-06-09 19:39:38 -0300"
     },
     "done": true
   },
@@ -7084,6 +7222,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2024-06-09 22:03:01 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/brass_scaffolding_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2024-06-01 16:59:16 -0300"
@@ -7153,6 +7297,12 @@
   "undead_unleashed:nerves_of_steel": {
     "criteria": {
       "nerves_of_steel": "2024-05-28 21:58:51 -0300"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
     },
     "done": true
   },
@@ -7414,6 +7564,12 @@
     },
     "done": true
   },
+  "environmental:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/granite_castel_tiles_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-05-21 22:30:33 -0300"
@@ -7632,7 +7788,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -7906,6 +8062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-06-09 22:06:26 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2024-05-24 22:44:15 -0300"
@@ -8116,6 +8278,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/pine_boards": {
+    "criteria": {
+      "has_pine_planks": "2024-06-09 21:46:16 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/light_gray_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-05-29 23:31:46 -0300"
@@ -8197,6 +8365,12 @@
   "woodworks:recipes/redstone/birch_button_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-05-23 21:06:01 -0300"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
     },
     "done": true
   },
@@ -8383,6 +8557,12 @@
   "farmersdelight:recipes/farmersdelight/hamburger": {
     "criteria": {
       "has_beef_patty": "2024-05-31 20:48:55 -0300"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
     },
     "done": true
   },
@@ -8716,9 +8896,15 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/c/environmental/pine_window_pane": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -9131,6 +9317,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2024-06-09 19:39:38 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2024-05-30 00:20:51 -0300"
@@ -9354,6 +9546,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-06-09 21:40:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2024-05-29 23:20:39 -0300"
@@ -9414,6 +9612,12 @@
     },
     "done": true
   },
+  "environmental:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/andesite_castel_tiles_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-05-30 23:33:53 -0300"
@@ -9429,6 +9633,12 @@
   "environmental:recipes/building_blocks/dirt_bricks_from_dirt_stonecutting": {
     "criteria": {
       "has_dirt": "2024-05-21 22:04:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-06-09 22:06:26 -0300"
     },
     "done": true
   },
@@ -9804,6 +10014,12 @@
     },
     "done": true
   },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-06-09 22:16:09 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2024-05-31 23:15:50 -0300"
@@ -9885,6 +10101,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-05-24 22:38:40 -0300"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/deluxe_cheeseburger": {
+    "criteria": {
+      "has_bacon": "2024-06-09 19:39:38 -0300"
     },
     "done": true
   },
@@ -10023,6 +10245,12 @@
   "woodworks:recipes/redstone/spruce_door_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-05-31 20:20:35 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2024-06-09 19:46:44 -0300"
     },
     "done": true
   },
@@ -10506,6 +10734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-06-09 22:03:01 -0300"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/flarestack": {
     "criteria": {
       "has_the_recipe": "2024-05-21 22:02:13 -0300"
@@ -10688,6 +10922,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-06-09 22:24:35 -0300",
       "minecraft:bamboo_jungle": "2024-05-30 22:08:05 -0300",
       "environmental:pine_slopes": "2024-05-31 23:29:54 -0300",
       "minecraft:savanna_plateau": "2024-05-30 21:50:49 -0300",
@@ -10697,6 +10932,8 @@
       "minecraft:river": "2024-05-23 21:43:08 -0300",
       "minecraft:lukewarm_ocean": "2024-06-01 17:18:18 -0300",
       "environmental:pine_barrens": "2024-05-29 23:04:50 -0300",
+      "minecraft:dripstone_caves": "2024-06-09 22:13:48 -0300",
+      "minecraft:grove": "2024-06-09 22:30:33 -0300",
       "environmental:blossom_woods": "2024-05-24 23:13:39 -0300",
       "minecraft:forest": "2024-05-30 20:16:01 -0300",
       "minecraft:lush_caves": "2024-05-30 23:32:08 -0300",
@@ -10776,7 +11013,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -10849,6 +11086,12 @@
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2024-05-24 23:17:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-06-09 22:21:21 -0300"
     },
     "done": true
   },
@@ -11086,6 +11329,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-06-09 21:40:54 -0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/birch_fence_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-05-23 21:43:28 -0300"
@@ -11112,7 +11361,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-06-08 16:07:53 -0300"
+      "log_spam_fixer": "2024-06-09 22:39:46 -0300"
     },
     "done": false
   },
@@ -11342,6 +11591,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/rose_hip_pie_from_slices": {
+    "criteria": {
+      "has_rose_hip_pie_slice": "2024-06-09 21:33:21 -0300"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/metal_plate_wall_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-05-21 22:28:24 -0300"
@@ -11567,6 +11822,12 @@
   "clayworks:recipes/building_blocks/terracotta_brick_vertical_slab_from_terracotta_stonecutting": {
     "criteria": {
       "has_terracotta": "2024-06-01 17:13:24 -0300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tw/environmental/pine_table": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
     },
     "done": true
   },
@@ -11992,6 +12253,12 @@
     },
     "done": true
   },
+  "environmental:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-09 21:46:16 -0300"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/crimsite_castel_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-05-30 23:46:22 -0300"
@@ -12022,6 +12289,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/pine_vertical_slab": {
+    "criteria": {
+      "has_pine_planks": "2024-06-09 21:46:16 -0300"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
     "criteria": {
       "has_item": "2024-05-30 23:37:00 -0300"
@@ -12037,6 +12310,12 @@
   "create:recipes/create.base/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2024-05-21 22:43:58 -0300"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/pine_leaf_pile": {
+    "criteria": {
+      "has_pine_leaves": "2024-06-09 21:40:59 -0300"
     },
     "done": true
   },
@@ -12164,6 +12443,12 @@
   "farmersrespite:recipes/farmersrespite/brewing/gamblers_tea": {
     "criteria": {
       "has_any_ingredient": "2024-05-30 23:36:44 -0300"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-06-09 22:21:21 -0300"
     },
     "done": true
   },
@@ -12428,6 +12713,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-05-21 22:05:44 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-06-09 21:46:04 -0300"
     },
     "done": true
   },
