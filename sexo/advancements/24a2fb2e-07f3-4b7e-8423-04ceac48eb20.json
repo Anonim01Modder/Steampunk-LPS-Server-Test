@@ -728,7 +728,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
     "done": false
   },
@@ -1124,7 +1124,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
     "done": false
   },
@@ -2558,6 +2558,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/fd/atmospheric/grimwood_cabinet": {
+    "criteria": {
+      "has_planks": "2024-06-10 07:05:56 -0300"
+    },
+    "done": true
+  },
   "miners_delight:recipes/miners_delight/copper_pot": {
     "criteria": {
       "has_copper": "2024-05-24 23:08:50 -0300"
@@ -2932,7 +2938,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
     "done": false
   },
@@ -3856,9 +3862,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "requirement": "2024-06-10 07:41:00 -0300",
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/ender_slayer": {
     "criteria": {
@@ -5722,7 +5729,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
     "done": false
   },
@@ -6785,7 +6792,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
     "done": false
   },
@@ -7758,7 +7765,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
     "done": false
   },
@@ -7794,7 +7801,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
     "done": false
   },
@@ -8602,6 +8609,12 @@
   "clayworks:recipes/building_blocks/purple_terracotta_vertical_slab_from_purple_terracotta_stonecutting": {
     "criteria": {
       "has_purple_terracotta": "2024-06-01 16:19:08 -0300"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/c/atmospheric/grimwood_window": {
+    "criteria": {
+      "has_planks": "2024-06-10 07:05:56 -0300"
     },
     "done": true
   },
@@ -9488,6 +9501,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tw/atmospheric/grimwood_table": {
+    "criteria": {
+      "has_planks": "2024-06-10 07:05:56 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/chute": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:30 -0300"
@@ -9514,7 +9533,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
     "done": false
   },
@@ -10852,7 +10871,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
     "done": false
   },
@@ -12209,6 +12228,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/c/atmospheric/grimwood_window_pane": {
+    "criteria": {
+      "has_planks": "2024-06-10 07:05:56 -0300"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-05-24 21:34:24 -0300"
@@ -13479,7 +13504,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
     "done": false
   },
@@ -13875,7 +13900,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 22:44:45 -0300"
+      "log_spam_fixer": "2024-06-10 07:40:59 -0300"
     },
     "done": false
   },
