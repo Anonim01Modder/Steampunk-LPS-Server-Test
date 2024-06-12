@@ -728,7 +728,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
     "done": false
   },
@@ -1124,7 +1124,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
     "done": false
   },
@@ -2944,7 +2944,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
     "done": false
   },
@@ -3017,6 +3017,12 @@
   "design_decor:recipes/design_decor/limestone_castel_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-05-31 18:40:29 -0300"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2024-06-11 21:54:33 -0300"
     },
     "done": true
   },
@@ -3335,6 +3341,12 @@
   "railways:recipes/railways/crafting/remote_lens": {
     "criteria": {
       "has_item": "2024-06-02 01:44:56 -0300"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/pickled_pickles": {
+    "criteria": {
+      "has_any_ingredient": "2024-06-11 21:49:05 -0300"
     },
     "done": true
   },
@@ -3868,10 +3880,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2024-06-11 07:35:07 -0300",
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
-    "done": true
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/ender_slayer": {
     "criteria": {
@@ -5577,6 +5588,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/misc/lime_dye_from_baking": {
+    "criteria": {
+      "has_sea_pickle": "2024-06-11 21:49:05 -0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick_to_slab": {
     "criteria": {
       "has_cokebrick": "2024-05-31 20:56:34 -0300"
@@ -5741,7 +5758,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
     "done": false
   },
@@ -6804,7 +6821,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
     "done": false
   },
@@ -6883,6 +6900,12 @@
   "create:recipes/create.base/crafting/kinetics/piston_extension_pole": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-06-11 22:00:02 -0300"
     },
     "done": true
   },
@@ -7778,7 +7801,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
     "done": false
   },
@@ -7814,7 +7837,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
     "done": false
   },
@@ -8284,6 +8307,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-06-11 22:00:02 -0300"
     },
     "done": true
   },
@@ -9220,6 +9249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-06-11 21:49:05 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:24 -0300"
@@ -9552,7 +9587,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
     "done": false
   },
@@ -10896,7 +10931,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
     "done": false
   },
@@ -13529,7 +13564,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
     "done": false
   },
@@ -13931,7 +13966,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-06-11 07:34:46 -0300"
+      "log_spam_fixer": "2024-06-11 22:42:25 -0300"
     },
     "done": false
   },
@@ -14138,6 +14173,12 @@
   "create:recipes/create.base/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_the_recipe": "2024-05-24 21:34:26 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2024-06-11 22:13:39 -0300"
     },
     "done": true
   },
@@ -14774,6 +14815,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
     "criteria": {
       "has_item": "2024-05-30 00:20:56 -0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_smoker": "2024-06-11 22:10:40 -0300"
     },
     "done": true
   },
@@ -15588,6 +15635,12 @@
   "interiors:recipes/building_blocks/crafting/floor_chair/brown_floor_chair": {
     "criteria": {
       "has_seat": "2024-05-30 23:15:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-06-11 22:00:02 -0300"
     },
     "done": true
   },
