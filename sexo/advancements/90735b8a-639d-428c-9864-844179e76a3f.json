@@ -530,7 +530,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
     },
     "done": false
   },
@@ -609,6 +609,12 @@
   "railways:recipes/railways/crafting/smokestack_oilburner": {
     "criteria": {
       "has_item": "2024-05-31 21:41:22 -0300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-06-15 14:19:45 -0300"
     },
     "done": true
   },
@@ -792,17 +798,17 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
-    },
-    "done": false
-  },
   "forbidden_arcanus:recipes/forbidden_arcanus/deorum_chain": {
     "criteria": {
       "has_ingot": "2024-06-09 13:34:54 -0300"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
@@ -813,6 +819,12 @@
   "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-05-31 17:13:12 -0300"
+    },
+    "done": true
+  },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2024-06-15 14:22:49 -0300"
     },
     "done": true
   },
@@ -1518,6 +1530,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-06-15 14:19:52 -0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_iron": {
     "criteria": {
       "has_iron_ingot": "2024-05-25 22:25:13 -0300"
@@ -1753,15 +1771,15 @@
     },
     "done": true
   },
-  "computercraft:recipes/computercraft/speaker": {
-    "criteria": {
-      "has_computer": "2024-06-09 13:38:57 -0300"
-    },
-    "done": true
-  },
   "forbidden_arcanus:recipes/forbidden_arcanus/deorum_leggings": {
     "criteria": {
       "has_ingots/deorum": "2024-06-09 13:34:54 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/speaker": {
+    "criteria": {
+      "has_computer": "2024-06-09 13:38:57 -0300"
     },
     "done": true
   },
@@ -2059,6 +2077,12 @@
     },
     "done": true
   },
+  "cold_sweat:boiler_icebox": {
+    "criteria": {
+      "has_item": "2024-06-15 14:41:25 -0300"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/wireless_modem_normal": {
     "criteria": {
       "has_computer": "2024-06-09 13:38:57 -0300"
@@ -2139,7 +2163,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
     },
     "done": false
   },
@@ -2779,17 +2803,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
-    },
-    "done": false
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/turntable": {
     "criteria": {
       "has_coil_lv": "2024-06-09 13:11:59 -0300"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/ender_slayer": {
     "criteria": {
@@ -3078,6 +3102,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-05-31 23:15:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-06-15 14:19:45 -0300"
     },
     "done": true
   },
@@ -4142,7 +4172,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
     },
     "done": false
   },
@@ -4851,7 +4881,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
     },
     "done": false
   },
@@ -5613,7 +5643,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
     },
     "done": false
   },
@@ -5631,7 +5661,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
     },
     "done": false
   },
@@ -6881,7 +6911,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
     },
     "done": false
   },
@@ -7304,6 +7334,12 @@
       "has_parent_recipe": "2024-05-29 23:51:33 -0300"
     },
     "done": false
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-06-15 14:19:46 -0300"
+    },
+    "done": true
   },
   "create:recipes/create.palettes/crafting/kinetics/light_gray_seat_from_other_seat": {
     "criteria": {
@@ -7805,7 +7841,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
     },
     "done": false
   },
@@ -8215,6 +8251,12 @@
   "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-05-29 22:39:35 -0300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-06-15 14:19:45 -0300"
     },
     "done": true
   },
@@ -8847,6 +8889,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-05-25 22:22:42 -0300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-06-15 14:19:46 -0300"
     },
     "done": true
   },
@@ -9592,7 +9640,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
     },
     "done": false
   },
@@ -9844,7 +9892,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-06-09 13:58:33 -0300"
+      "log_spam_fixer": "2024-06-15 16:30:09 -0300"
     },
     "done": false
   },
@@ -10211,6 +10259,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-25 22:55:47 -0300"
+    },
+    "done": true
+  },
+  "cold_sweat:survival_tactics": {
+    "criteria": {
+      "freezing_on_fire": "2024-06-15 15:03:20 -0300"
     },
     "done": true
   },
